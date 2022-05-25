@@ -2,7 +2,8 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/6be11bb4-9e52-4a43-973f-81d38b61de2c/deploy-status)](https://app.netlify.com/sites/barcelonareport/deploys)  
 
-One HTML landing page template for introducing Barcelona club news.  
+Barcelona Report is a HTML landing page website for introducing Barcelona club news.  
+
 (Not Responsive)  
 
 ![Screenshot](mockup.png)  
