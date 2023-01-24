@@ -5,19 +5,13 @@
 One HTML landing page template for introducing Barcelona club news.  
 (Not Responsive)  
 
+You can view the template from [here](https://mohamed-elhawary.github.io/barcelona-report/)
+
 ![Screenshot](mockup.png)  
 
 ## Demo
  
 ![barcelona-report-all-club-store](https://user-images.githubusercontent.com/69651552/95007501-faafca00-0610-11eb-83da-44eb6e823aca.gif)
-
-## Getting Started
-
-You can try the Template from [here](https://mohamed-elhawary.github.io/barcelona-report/)
-
-## Prerequisites
-
-Just Modern Browser like "Chrome" and a Code Editor for Deployment and Develop.
 
 ## Built With
 
@@ -31,15 +25,17 @@ Just Modern Browser like "Chrome" and a Code Editor for Deployment and Develop.
 
 ## Author
 
-* Mohamed Elhawary  
+* [Mohamed Elhawary](https://www.linkedin.com/in/mohamed-elhawary14/)  
 
-## Contact Me  
+## Contact me through my social accounts
 
-* Email: mohamed.k.elhawary@gmail.com
+* Email: mohamed.k.elhawary@gmail.com  
 
-## Deploy with Me
+* [Linkedin](https://www.linkedin.com/in/mohamed-elhawary14/)
 
-Feel Free to Deploy it with me, send Issues or a Pull Request and i'll deal with you, just test it First.
+* [Codepen](https://codepen.io/Mohamed-ElHawary)
+
+* [Behance](https://www.behance.net/mohamed-elhawary14)
 
 ## License
 
