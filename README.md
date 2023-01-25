@@ -6,7 +6,7 @@ Barcelona Report is a HTML landing page website for introducing Barcelona club n
 
 (Not Responsive)  
 
-You can view the website from [here](https://mohamed-elhawary.github.io/barcelona-report/)
+You can view the website from [here](https://barcelonareport.netlify.app/)
 
 ![Screenshot](mockup.png)  
 
