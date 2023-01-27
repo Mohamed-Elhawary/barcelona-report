@@ -21,8 +21,8 @@ You can view the website from [here](https://barcelonareport.netlify.app/)
 
 ## Libraries  
 
-* Font Awesome  
-* Normalize.css  
+* [Font Awesome](https://fontawesome.com/)  
+* [Normalize.css](https://necolas.github.io/normalize.css/)
 
 ## Author
 
@@ -30,13 +30,11 @@ You can view the website from [here](https://barcelonareport.netlify.app/)
 
 ## Contact me through my social accounts
 
-* Email: mohamed.k.elhawary@gmail.com  
-
-* [Linkedin](https://www.linkedin.com/in/mohamed-elhawary14/)
-
-* [Codepen](https://codepen.io/Mohamed-ElHawary)
-
+* Email: mohamed.k.elhawary@gmail.com
+* [LinkedIn](https://www.linkedin.com/in/mohamed-elhawary14/)
+* [Github](https://github.com/Mohamed-Elhawary)  
 * [Behance](https://www.behance.net/mohamed-elhawary14)
+* [Codepen](https://codepen.io/Mohamed-ElHawary) 
 
 ## License
 
